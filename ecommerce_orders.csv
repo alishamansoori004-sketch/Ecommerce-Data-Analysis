@@ -1,0 +1,51 @@
+Order ID,Order Date,Ship Date,Customer Name,City,State,Category,Sub-Category,Sales,Profit,Quantity,Discount
+ORD0001,2023-01-01,2023-01-02,Customer 1,Mumbai,Tamil Nadu,Office Supplies,Paper,805.59,3.37,3,0.29
+ORD0002,2023-01-02,2023-01-03,Customer 2,Delhi,Tamil Nadu,Electronics,Phones,751.0,158.83,1,0.19
+ORD0003,2023-01-03,2023-01-04,Customer 3,Bangalore,Tamil Nadu,Furniture,Phones,352.96,284.54,2,0.22
+ORD0004,2023-01-04,2023-01-05,Customer 4,Bangalore,Delhi,Office Supplies,Paper,600.1,-107.38,9,0.2
+ORD0005,2023-01-05,2023-01-06,Customer 5,Chennai,Tamil Nadu,Electronics,Chairs,966.96,42.85,3,0.25
+ORD0006,2023-01-06,2023-01-07,Customer 6,Chennai,Tamil Nadu,Electronics,Chairs,211.75,-97.75,4,0.04
+ORD0007,2023-01-07,2023-01-08,Customer 7,Mumbai,Tamil Nadu,Furniture,Phones,505.61,61.82,8,0.13
+ORD0008,2023-01-08,2023-01-09,Customer 8,Chennai,West Bengal,Office Supplies,Accessories,166.98,-179.27,4,0.0
+ORD0009,2023-01-09,2023-01-10,Customer 9,Delhi,West Bengal,Furniture,Chairs,52.3,297.84,4,0.25
+ORD0010,2023-01-10,2023-01-11,Customer 10,Bangalore,Maharashtra,Furniture,Phones,632.83,-60.77,5,0.26
+ORD0011,2023-01-11,2023-01-12,Customer 11,Delhi,Karnataka,Electronics,Paper,891.72,282.45,4,0.14
+ORD0012,2023-01-12,2023-01-13,Customer 12,Chennai,Maharashtra,Electronics,Phones,637.86,258.89,1,0.02
+ORD0013,2023-01-13,2023-01-14,Customer 13,Kolkata,Maharashtra,Office Supplies,Phones,795.59,48.81,4,0.26
+ORD0014,2023-01-14,2023-01-15,Customer 14,Delhi,Karnataka,Electronics,Tables,629.34,172.15,8,0.26
+ORD0015,2023-01-15,2023-01-16,Customer 15,Chennai,Karnataka,Office Supplies,Tables,614.95,230.85,6,0.08
+ORD0016,2023-01-16,2023-01-17,Customer 16,Bangalore,Delhi,Electronics,Paper,864.29,-37.97,3,0.12
+ORD0017,2023-01-17,2023-01-18,Customer 17,Mumbai,Delhi,Office Supplies,Phones,703.1,-104.27,9,0.12
+ORD0018,2023-01-18,2023-01-19,Customer 18,Kolkata,Karnataka,Furniture,Tables,635.06,-57.94,3,0.17
+ORD0019,2023-01-19,2023-01-20,Customer 19,Mumbai,Tamil Nadu,Office Supplies,Phones,655.41,-67.86,9,0.28
+ORD0020,2023-01-20,2023-01-21,Customer 20,Bangalore,Karnataka,Office Supplies,Phones,491.91,198.18,4,0.14
+ORD0021,2023-01-21,2023-01-22,Customer 21,Mumbai,Tamil Nadu,Electronics,Accessories,498.15,16.37,6,0.2
+ORD0022,2023-01-22,2023-01-23,Customer 22,Delhi,Karnataka,Electronics,Phones,481.44,-87.26,2,0.06
+ORD0023,2023-01-23,2023-01-24,Customer 23,Bangalore,Maharashtra,Office Supplies,Phones,544.28,14.28,9,0.1
+ORD0024,2023-01-24,2023-01-25,Customer 24,Bangalore,West Bengal,Electronics,Accessories,773.77,177.59,7,0.27
+ORD0025,2023-01-25,2023-01-26,Customer 25,Kolkata,Maharashtra,Furniture,Phones,388.92,20.9,8,0.22
+ORD0026,2023-01-26,2023-01-27,Customer 26,Mumbai,West Bengal,Electronics,Phones,721.53,227.52,9,0.3
+ORD0027,2023-01-27,2023-01-28,Customer 27,Kolkata,West Bengal,Electronics,Tables,829.25,-193.75,9,0.15
+ORD0028,2023-01-28,2023-01-29,Customer 28,Bangalore,West Bengal,Furniture,Paper,385.07,276.45,2,0.08
+ORD0029,2023-01-29,2023-01-30,Customer 29,Mumbai,Karnataka,Office Supplies,Chairs,806.94,102.75,5,0.23
+ORD0030,2023-01-30,2023-01-31,Customer 30,Mumbai,Maharashtra,Office Supplies,Chairs,671.25,-175.29,8,0.08
+ORD0031,2023-01-31,2023-02-01,Customer 31,Delhi,West Bengal,Electronics,Accessories,127.55,295.72,9,0.09
+ORD0032,2023-02-01,2023-02-02,Customer 32,Delhi,Maharashtra,Office Supplies,Paper,657.61,5.73,7,0.18
+ORD0033,2023-02-02,2023-02-03,Customer 33,Delhi,Karnataka,Electronics,Tables,845.46,-171.59,4,0.14
+ORD0034,2023-02-03,2023-02-04,Customer 34,Delhi,Delhi,Office Supplies,Paper,565.54,-28.82,6,0.05
+ORD0035,2023-02-04,2023-02-05,Customer 35,Delhi,Karnataka,Electronics,Accessories,786.11,66.5,4,0.03
+ORD0036,2023-02-05,2023-02-06,Customer 36,Bangalore,Tamil Nadu,Furniture,Accessories,639.21,127.59,7,0.19
+ORD0037,2023-02-06,2023-02-07,Customer 37,Chennai,West Bengal,Office Supplies,Tables,528.18,-62.7,3,0.25
+ORD0038,2023-02-07,2023-02-08,Customer 38,Bangalore,Tamil Nadu,Electronics,Chairs,731.09,205.74,5,0.06
+ORD0039,2023-02-08,2023-02-09,Customer 39,Mumbai,Delhi,Office Supplies,Accessories,820.68,211.36,2,0.29
+ORD0040,2023-02-09,2023-02-10,Customer 40,Chennai,West Bengal,Furniture,Tables,815.62,285.99,2,0.14
+ORD0041,2023-02-10,2023-02-11,Customer 41,Mumbai,Delhi,Office Supplies,Tables,546.65,-88.59,9,0.17
+ORD0042,2023-02-11,2023-02-12,Customer 42,Delhi,Maharashtra,Electronics,Tables,527.69,148.7,9,0.15
+ORD0043,2023-02-12,2023-02-13,Customer 43,Bangalore,Tamil Nadu,Electronics,Phones,951.67,177.44,1,0.25
+ORD0044,2023-02-13,2023-02-14,Customer 44,Bangalore,Karnataka,Electronics,Chairs,333.91,-114.01,3,0.03
+ORD0045,2023-02-14,2023-02-15,Customer 45,Mumbai,Tamil Nadu,Furniture,Phones,366.03,14.47,7,0.07
+ORD0046,2023-02-15,2023-02-16,Customer 46,Bangalore,West Bengal,Furniture,Phones,142.17,204.33,3,0.02
+ORD0047,2023-02-16,2023-02-17,Customer 47,Chennai,Delhi,Electronics,Tables,104.2,106.25,7,0.23
+ORD0048,2023-02-17,2023-02-18,Customer 48,Kolkata,Karnataka,Electronics,Paper,702.68,171.98,1,0.22
+ORD0049,2023-02-18,2023-02-19,Customer 49,Mumbai,West Bengal,Office Supplies,Chairs,752.22,-175.76,4,0.18
+ORD0050,2023-02-19,2023-02-20,Customer 50,Kolkata,Delhi,Furniture,Paper,811.69,-64.61,6,0.05
