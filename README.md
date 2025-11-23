@@ -73,6 +73,4 @@ Perfect for **resumes, internship applications, and GitHub portfolios**.
 
  📬 **Contact**
 
-Feel free to reach out for collaboration or feedback!
-
-!
+Feel free to reach out for collaboration or feedback!!
