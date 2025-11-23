@@ -1,76 +1,53 @@
-⭐ **E-Commerce Sales Data Analysis**
+# E-Commerce Sales Data Analysis 📊
 
-A practical data analytics project using Python to analyze sales performance across categories, sub-categories, states, and profit levels.
-This project demonstrates strong foundational skills in **data cleaning, EDA, and data visualization**.
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![GitHub Repo Size](https://img.shields.io/badge/Repo-50KB-blue)
 
+## Overview
+This project analyzes an e-commerce sales dataset to extract business insights.  
+The main goals are:
 
- 🚀 **Project Overview**
+- Identify the most selling product categories  
+- Find the most profitable categories  
+- Analyze sales distribution across states  
+- Determine popular sub-categories  
 
-This project analyzes an **E-commerce sales dataset (50 rows)** to extract meaningful business insights, such as:
+The analysis helps understand business performance and decision-making strategies.
 
-* Top-selling categories
-* Most popular sub-categories
-* Profit-generating product groups
-* State-wise sales distribution
+## Dataset
+The dataset `ecommerce_orders.csv` contains:
 
-The project is ideal for **beginner to intermediate data analytics learning** and is suitable for academic submissions and job portfolios.
+| Column          | Description                              |
+|-----------------|------------------------------------------|
+| Order ID        | Unique identifier for each order         |
+| Order Date      | Date when the order was placed           |
+| Ship Date       | Date when the order was shipped          |
+| Customer Name   | Customer’s name                           |
+| City, State     | Customer location                         |
+| Category        | Product category                          |
+| Sub-Category    | Product sub-category                      |
+| Sales           | Total sales amount                        |
+| Profit          | Profit earned                             |
+| Quantity        | Number of items ordered                   |
+| Discount        | Discount applied on the order             |
 
+## Analysis Notebook
+The `analysis.ipynb` notebook includes:
 
- 🛠 **Technologies Used**
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Category-wise, Sub-Category-wise, State-wise visualizations  
+- Profit analysis by category  
+- Key business insights
 
-* Python
-* Pandas
-* Matplotlib
-* Jupyter Notebook / VS Code
-* CSV Dataset (`ecommerce_orders.csv`)
+## Tools & Technologies
+- Python  
+- Pandas  
+- Matplotlib  
+- Jupyter Notebook / VS Code
 
+## How to Use
+1. Clone this repository:
 
- 📊 **Key Analysis Steps**
-
- ✔ **1. Data Cleaning**
-
-* Checked for missing values
-* Verified column types
-* Ensured dataset was analysis-ready
-
- ✔ **2. Exploratory Data Analysis (EDA)**
-
-Visualizations created:
-
-* Category-wise sales
-* Sub-category-wise sales
-* Category-wise profit
-* State-wise sales
-
-✔ **3. Insights Summary**
-
-* **Office Supplies** was the highest-selling category
-* **Binders, Paper, Chairs** were most purchased sub-categories
-* Profit and sales patterns vary significantly across regions
-* Visual analysis helps identify strong and weak business areas
-
----
-
-📁 **Project Files**
-
-| File                   | Description                     |
-| ---------------------- | ------------------------------- |
-| `analysis.ipynb`       | Complete data analysis notebook |
-| `ecommerce_orders.csv` | Dataset used for the project    |
-| `README.md`            | Documentation                   |
-
- 🎯 **Project Outcome**
-
-This project showcases:
-
-* Python skills for Data Analytics
-* Real dataset handling
-* Data cleaning & preprocessing
-* Visualization and insight generation
-* Professional documentation
-
-Perfect for **resumes, internship applications, and GitHub portfolios**.
-
- 📬 **Contact**
-
-Feel free to reach out for collaboration or feedback!!
+```bash
+git clone https://github.com/alishamansoori004-sketch/Ecommerce-Sales-Analysis.git
